@@ -11,13 +11,25 @@ O desafio central é democratizar o acesso à inteligência artificial através 
 
 ### Backlog do Produto
 Acompanhe as épicas, histórias de usuário e tarefas que guiam nosso desenvolvimento.
-- [Acessar o Backlog](./Docs/PRODUCT_BACKLOG.md)
+- [Acessar o Backlog](./Docs/BACKLOG_PRODUTO.md)
+
+---
+
+### Checklists DoR e DoD
+Checklists - Definition of Ready (DoR) e Definition of Done (DoD).
+- [Acessar o Backlog](./Docs/CHECKLISTS_DOR_DOD.md)
+
+---
+
+### Estrutura do Projeto
+Descrição detalhada da estrutura de pastas e arquivos do projeto.
+- [Acessar o Backlog](./Docs/CHECKLISTS_DOR_DOD.md)
 
 ---
 
 ### Cronograma
 Visão geral das fases e entregas planejadas para o projeto.
-- [Ver o Cronograma](./Docs/TIMELINE.md)
+- [Ver o Cronograma](./Docs/CRONOGRAMA.md)
 
 ---
 
@@ -29,22 +41,22 @@ Acompanhe o detalhamento e os entregáveis de cada ciclo de desenvolvimento.
 
 ### Tecnologias Utilizadas
 Conheça as ferramentas utilizadas e a organização do nosso código-fonte.
-- [Ver Tecnologias e Estrutura](./Docs/TECHNOLOGIES.md)
+- [Ver Tecnologias e Estrutura](./Docs/TECNOLOGIAS.md)
 
 ---
 
 ### Como Executar
 Guia para configurar o ambiente e rodar o projeto localmente.
-- [Acessar o Guia de Execução](./Docs/HOW_TO_RUN.md)
+- [Acessar o Guia de Execução](./Docs/COMO_EXECUTAR.md)
 
 ---
 
 ### Documentação
 Hub central para todos os documentos do projeto, como manuais e DoR/DoD.
-- [Explorar Documentação](./Docs/DOCUMENTATION.md)
+- [Explorar Documentação](./Docs/DOCUMENTACAO.md)
 
 ---
 
 ### Equipe
 Conheça os membros responsáveis pela criação do IntelliAssist.
-- [Conhecer a Equipe](./Docs/TEAM.md)
+- [Conhecer a Equipe](./Docs/EQUIPE.md)
