@@ -33,9 +33,14 @@ Conheça as ferramentas utilizadas e a organização do nosso código-fonte.
 
 ---
 
-### Como Executar e Documentação
-Guia para rodar o projeto e hub central para todos os documentos, como manuais e DoR/DoD.
-- [Guia de Execução](./Docs/HOW_TO_RUN.md)
+### Como Executar
+Guia para configurar o ambiente e rodar o projeto localmente.
+- [Acessar o Guia de Execução](./Docs/HOW_TO_RUN.md)
+
+---
+
+### Documentação
+Hub central para todos os documentos do projeto, como manuais e DoR/DoD.
 - [Explorar Documentação](./Docs/DOCUMENTATION.md)
 
 ---
