@@ -15,13 +15,19 @@ Acompanhe as épicas, histórias de usuário e tarefas que guiam nosso desenvolv
 
 ---
 
-### Cronograma e Sprints
-Visão geral das fases do projeto e o detalhamento de cada ciclo de desenvolvimento.
-- [Ver Cronograma e Sprints](./Docs/TIMELINE.md)
+### Cronograma
+Visão geral das fases e entregas planejadas para o projeto.
+- [Ver o Cronograma](./Docs/TIMELINE.md)
 
 ---
 
-### Tecnologias e Estrutura
+### Sprints
+Acompanhe o detalhamento e os entregáveis de cada ciclo de desenvolvimento.
+- [Ver as Sprints](./Docs/SPRINTS.md)
+
+---
+
+### Tecnologias Utilizadas
 Conheça as ferramentas utilizadas e a organização do nosso código-fonte.
 - [Ver Tecnologias e Estrutura](./Docs/TECHNOLOGIES.md)
 
