@@ -8,26 +8,32 @@ O IntelliAssist é uma plataforma inovadora projetada para democratizar o acesso
 
 ---
 
-## 📖 Sobre o Projeto
+### 🎯 Desafio
+Descrição do problema que o IntelliAssist se propõe a resolver e o valor que ele entrega.
+➡️ **[Leia mais sobre o Desafio](./Docs/CHALLENGE.md)**
 
-| Seção | Descrição |
-| :--- | :--- |
-| 🎯 **Desafio** | Descrição do problema que o IntelliAssist se propõe a resolver. |
-| 📋 **Backlog do Produto** | Link para a nossa ferramenta de gerenciamento de produto. |
-| 🚀 **Cronograma** | Visão geral das fases e entregas do projeto. |
-| 🏃 **Sprints** | Detalhamento do andamento de cada Sprint. |
+### 📋 Backlog do Produto
+O backlog completo do produto, contendo as épicas e histórias de usuário, pode ser acessado em:
+➡️ **[Acesse o Backlog do Produto](./Docs/PRODUCT_BACKLOG.md)**
 
-## 💻 Para Desenvolvedores
+### 🚀 Cronograma e Sprints
+Acompanhe a evolução do projeto através do nosso cronograma visual e do detalhamento de cada Sprint.
+➡️ **[Veja o Cronograma do Projeto](./Docs/TIMELINE.md)**
+➡️ **[Detalhes das Sprints](./Docs/SPRINTS.md)**
 
-| Seção | Descrição |
-| :--- | :--- |
-| 🛠️ **Tecnologias** | Stacks e ferramentas utilizadas no projeto. |
-| 🚀 **Como Executar** | Instruções para configurar e rodar o projeto localmente. |
-| 📁 **Estrutura do Projeto** | Visão da organização de pastas e arquivos. |
+### 🛠️ Tecnologias e Estrutura
+Conheça as ferramentas que estamos utilizando e como nosso código está organizado.
+➡️ **[Veja as Tecnologias Utilizadas](./Docs/TECHNOLOGIES.md)**
+➡️ **[Entenda a Estrutura do Projeto](./Docs/PROJECT_STRUCTURE.md)**
 
-## 📚 Documentação e Equipe
+### 🚀 Como Executar
+Instruções completas para configurar o ambiente e rodar o projeto localmente.
+➡️ **[Acesse o Guia de Execução](./Docs/HOW_TO_RUN.md)**
 
-| Seção | Descrição |
-| :--- | :--- |
-| 📚 **Documentação Completa** | Hub central para todos os documentos do projeto. |
-| 🧑‍💻 **Equipe** | Conheça os membros que estão construindo o IntelliAssist. |
+### 📚 Documentação
+Hub central para todos os documentos do projeto, incluindo manuais, DoR e DoD.
+➡️ **[Explore a Documentação](./Docs/DOCUMENTATION.md)**
+
+### 🧑‍💻 Equipe
+Conheça os membros responsáveis pela criação do IntelliAssist.
+➡️ **[Conheça nossa Equipe](./Docs/TEAM.md)**
