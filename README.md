@@ -15,18 +15,6 @@ Acompanhe as épicas, histórias de usuário e tarefas que guiam nosso desenvolv
 
 ---
 
-### Checklists DoR e DoD
-Checklists - Definition of Ready (DoR) e Definition of Done (DoD).
-- [Acessar o Checklist](./Docs/CHECKLISTS_DOR_DOD.md)
-
----
-
-### Estrutura do Projeto
-Descrição detalhada da estrutura de pastas e arquivos do projeto.
-- [Acessar a Estrutura](./Docs/ESTRUTURA_PROJETO.md)
-
----
-
 ### Cronograma
 Visão geral das fases e entregas planejadas para o projeto.
 - [Ver o Cronograma](./Docs/CRONOGRAMA.md)
@@ -36,12 +24,17 @@ Visão geral das fases e entregas planejadas para o projeto.
 ### Sprints
 Acompanhe o detalhamento e os entregáveis de cada ciclo de desenvolvimento.
 - [Ver as Sprints](./Docs/SPRINTS.md)
-
 ---
 
 ### Tecnologias Utilizadas
 Conheça as ferramentas utilizadas e a organização do nosso código-fonte.
 - [Ver Tecnologias e Estrutura](./Docs/TECNOLOGIAS.md)
+
+---
+
+### Estrutura do Projeto
+Descrição detalhada da estrutura de pastas e arquivos do projeto.
+- [Acessar a Estrutura](./Docs/ESTRUTURA_PROJETO.md)
 
 ---
 
@@ -60,3 +53,15 @@ Hub central para todos os documentos do projeto, como manuais e DoR/DoD.
 ### Equipe
 Conheça os membros responsáveis pela criação do IntelliAssist.
 - [Conhecer a Equipe](./Docs/EQUIPE.md)
+
+---
+
+### Checklists DoR e DoD
+Checklists - Definition of Ready (DoR) e Definition of Done (DoD).
+- [Acessar o Checklist](./Docs/CHECKLISTS_DOR_DOD.md)
+
+---
+
+### DoR e DoD por Sprint
+Critérios específicos de DoR e DoD aplicados em cada sprint.
+- [DoR e DoD detalhados por sprint](./Docs/DOCUMENTACAO.md)
