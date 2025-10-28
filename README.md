@@ -64,4 +64,4 @@ Checklists - Definition of Ready (DoR) e Definition of Done (DoD).
 
 ### DoR e DoD por Sprint
 Critérios específicos de DoR e DoD aplicados em cada sprint.
-- [DoR e DoD detalhados por sprint](./Docs/DOCUMENTACAO.md)
+- [DoR e DoD detalhados por sprint](./Docs/SPRINTS_DOR_DOD.md)
