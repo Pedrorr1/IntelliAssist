@@ -17,13 +17,13 @@ Acompanhe as épicas, histórias de usuário e tarefas que guiam nosso desenvolv
 
 ### Checklists DoR e DoD
 Checklists - Definition of Ready (DoR) e Definition of Done (DoD).
-- [Acessar o Backlog](./Docs/CHECKLISTS_DOR_DOD.md)
+- [Acessar o Checklist](./Docs/CHECKLISTS_DOR_DOD.md)
 
 ---
 
 ### Estrutura do Projeto
 Descrição detalhada da estrutura de pastas e arquivos do projeto.
-- [Acessar o Backlog](./Docs/CHECKLISTS_DOR_DOD.md)
+- [Acessar a Estrutura](./Docs/ESTRUTURA_PROJETO.md)
 
 ---
 
